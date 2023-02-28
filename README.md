@@ -1,10 +1,9 @@
 Hey there 👋
 
-My name is Wanis and I like working with terraform, AWS, k8s and Kafka. 
+My name is Wanis and I like working with Go, terraform, AWS, k8s and Kafka. 
 
 Working as a cloud engineer [@idealo](https://idealo.de)
 
-Currently learning Go.
 
 ## Contact
 
