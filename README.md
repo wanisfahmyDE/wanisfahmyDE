@@ -1,9 +1,8 @@
 Hey there 👋
 
-My name is Wanis and I like working with Go, terraform, AWS, k8s, Kafka and Backstage. 
+I work in a DevEx team at [@idealo](https://idealo.de) as a cloud engineer.
 
-Working as a senior cloud engineer [@idealo](https://idealo.de)
-
+My current focus is Go, Terraform, AWS, k8s and Backstage.
 
 ## Contact
 
