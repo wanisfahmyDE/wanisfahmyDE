@@ -1,6 +1,6 @@
 Hey there 👋
 
-I work in a DevEx team at [@idealo](https://idealo.de) as a cloud engineer.
+I work in a DevEx team at [@idealo](https://idealo.de) as a senior cloud engineer.
 
 My current focus is Go, Terraform, AWS, k8s and Backstage.
 
